@@ -86,7 +86,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [contributors]: https://github.com/GauthamVarmaK/addon-tvheadend/graphs/contributors
-[docs]: https://github.com/GauthamVarmaK/addon-tvheadend/blob/main/tvheadend/DOCS.md
+[docs]: https://github.com/DIAZGZA/addon-tvheadend/blob/main/tvheadend/DOCS.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/
 [gautham]: https://github.com/GauthamVarmaK
@@ -103,6 +103,6 @@ SOFTWARE.
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svghttps://github.com/DIAZGZA/addon-tvheadendhttps://github.com/DIAZGZA/addon-tvheadendhttps://github.com/DIAZGZA/addon-tvheadend
 [commits-shield]: https://img.shields.io/github/commit-activity/y/GauthamVarmaK/addon-tvheadend.svg
 [commits]: https://github.com/GauthamVarmaK/addon-tvheadend/commits/main
